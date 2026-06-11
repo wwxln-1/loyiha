@@ -5,3 +5,5 @@ Header
 Footer
 
 animation 
+
+deployment avtomatlashtirildi
